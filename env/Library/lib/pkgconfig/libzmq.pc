@@ -1,0 +1,12 @@
+prefix=d:/GenAI_Beginner/MCQGenerator-main/env/Library
+exec_prefix=d:/GenAI_Beginner/MCQGenerator-main/env/Library
+libdir=d:/GenAI_Beginner/MCQGenerator-main/env/Library/lib
+includedir=d:/GenAI_Beginner/MCQGenerator-main/env/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
