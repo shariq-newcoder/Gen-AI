@@ -1,20 +1,3 @@
-1. first login to the AWS: https://aws.amazon.com/console/
-
-2. search about the EC2
-
-3. you need to config the UBUNTU Machine
-
-4. launch the instance
-
-5. update the machine:
-
-sudo apt update
-
-sudo apt-get update
-
-sudo apt upgrade -y
-
-sudo apt install git curl unzip tar make sudo vim wget -y
 
 git clone "Your-repository"
 
