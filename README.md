@@ -1,11 +1,12 @@
+To get this repo, follow these steps-
 
-git clone "Your-repository"
+1.git clone "Your-repository"
 
-sudo apt install python3-pip
+2.sudo apt install python3-pip
 
-pip3 install -r requirements.txt
+3.pip3 install -r requirements.txt
 
-python3 -m streamlit run StreamlitAPP.py
+4.python3 -m streamlit run StreamlitAPP.py
 
 ##### if you want to add openai api key
 
